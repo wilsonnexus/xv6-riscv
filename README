@@ -1,3 +1,8 @@
+Last Commit: After trying out the last project, I had not realized how 
+much more understanding I had about xv6 and at a calmer pace. Of course
+it also depended on me wether I wanted to learn. The Professor also 
+seemed really kind and willing to take risks in his teaching methods.
+
 xv6 is a re-implementation of Dennis Ritchie's and Ken Thompson's Unix
 Version 6 (v6).  xv6 loosely follows the structure and style of v6,
 but is implemented for a modern RISC-V multiprocessor using ANSI C.
